@@ -1,7 +1,8 @@
 # Tugas 002 — Watch pass make.fun: kompetisi baru + status entry + pelajaran peringkat atas
 
 - **Pemilik:** Muse-3
-- **Status:** OPEN
+- **Status:** DITUTUP
+- **Catatan:** Ditutup 19 Nov 2026 00:20 WIB atas keputusan user — papan multi-Muse JEDA, jangan kerjakan lagi.
 - **Sifat:** Tugas pertama Muse-3. Read-only, tanpa login, tanpa submit.
   Satu pass pantau make.fun dari halaman / API publik saja.
 

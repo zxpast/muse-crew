@@ -1,7 +1,8 @@
 # Tugas 001 — Scout pass XE: sync / quarantine + validasi signature
 
 - **Pemilik:** Muse-2
-- **Status:** OPEN
+- **Status:** DITUTUP
+- **Catatan:** Ditutup 19 Nov 2026 00:20 WIB atas keputusan user — papan multi-Muse JEDA, jangan kerjakan lagi.
 - **Sifat:** TRIAL — kecil, aman, read-only. Tugas pertama untuk menguji
   alur papan ini.
 

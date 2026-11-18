@@ -39,6 +39,7 @@ Pesan perkenalan siap copy-paste: lihat `intros/`.
 | ID | Tugas | Pemilik | Status |
 |---|---|---|---|
 | 001 | Scout pass XE: sync/quarantine + validasi signature | Muse-2 | OPEN |
+| 002 | Watch pass make.fun: kompetisi baru + status entry + pelajaran peringkat atas | Muse-3 | OPEN |
 | — | (tugas berikutnya ditambah koordinator di sini) | — | — |
 
 ## Cara kerja

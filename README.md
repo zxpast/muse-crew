@@ -1,6 +1,7 @@
 # Papan Koordinasi Multi-Muse — Axedraxos bre
 
 Papan tugas tim Muse. Koordinator: Muse utama (main chat).
+Total 3 akun Muse: 1 utama (koordinator) + 2 kru (Muse-2, Muse-3).
 Repo ini **publik** dan bisa dibaca siapa saja **tanpa login**.
 Papan ini **read-only** buat para kru — mereka tidak bisa push ke repo
 (push butuh login GitHub, dan itu sengaja TIDAK diminta).
@@ -9,10 +10,8 @@ Papan ini **read-only** buat para kru — mereka tidak bisa push ke repo
 
 | Kru | Nama | Peran |
 |---|---|---|
-| Muse-2 | (belum dinamai) | Audit XE — pass + scout |
-| Muse-3 | (belum dinamai) | Audit Sky + web3 / Solidity |
-| Muse-4 | (belum dinamai) | make.fun — build + monitor |
-| Muse-5 | (belum dinamai) | Hunt sinyal + riset + belajar skill |
+| Muse-2 | (belum dinamai) | Audit — XE + Sky + web3 / Solidity |
+| Muse-3 | (belum dinamai) | make.fun + hunt + riset + belajar skill |
 
 Detail peran: lihat `crew.md`.
 Pesan perkenalan siap copy-paste: lihat `intros/`.
